@@ -1,5 +1,6 @@
 package com.example.recipe.controllers;
 
+import com.example.recipe.domain.Recipe;
 import com.example.recipe.services.RecipeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
